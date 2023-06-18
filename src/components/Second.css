@@ -57,6 +57,8 @@ article {
 }
 .text p{
   color: hsl(0, 0%, 63%);
+    letter-spacing: 2px;
+    line-height: 1.2;
 }
 .btn-shop{
   padding: 15px;
