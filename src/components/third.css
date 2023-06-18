@@ -38,6 +38,8 @@ import light from './images/image-about-light.jpg' */
 }
 .sec .info p{
     color: hsl(0, 0%, 63%);
+    letter-spacing: 2px;
+    line-height: 1.2;
 }
 @media only screen and (max-width: 800px){
     .third-wraper{
