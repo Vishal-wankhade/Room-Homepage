@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10696c0a.css",
+    "main.js": "/static/js/main.e0c93810.js",
+    "static/media/desktop-image-hero-1.jpg": "/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/image-about-dark.jpg": "/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "index.html": "/index.html",
+    "static/media/icon-close.svg": "/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
+    "static/media/icon-arrow.svg": "/static/media/icon-arrow.4ceb9fdc6515b91555111e4e26123400.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.2832f36844c9066fff9fb906406935e8.svg",
+    "static/media/icon-angle-left.svg": "/static/media/icon-angle-left.205aa9bc5415aafde590c6fc19b3d5b0.svg",
+    "static/media/icon-angle-right.svg": "/static/media/icon-angle-right.e470afc8b6174259fe82cb5f003a2612.svg",
+    "main.10696c0a.css.map": "/static/css/main.10696c0a.css.map",
+    "main.e0c93810.js.map": "/static/js/main.e0c93810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10696c0a.css",
+    "static/js/main.e0c93810.js"
+  ]
+}
