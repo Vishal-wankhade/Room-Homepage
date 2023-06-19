@@ -83,8 +83,8 @@ export default function Section() {
              
              </div>
                <div className='arrows'>
-                  <div><img src={left} alt='left-arrow' onClick={pre}></img></div>
-                  <div> <img src={right} alt='right-arrow' onClick={next}></img></div>
+                  <div onClick={pre}><img src={left} alt='left-arrow' ></img></div>
+                  <div onClick={next}> <img src={right} alt='right-arrow' ></img></div>
                 </div>
          
           </article>
